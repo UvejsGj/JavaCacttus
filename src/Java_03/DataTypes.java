@@ -88,5 +88,9 @@ public class DataTypes {
         // string literals
         System.out.println("\'Thojza njefishe");
         System.out.println("\"Thojza dyfishe\"");
+        System.out.println("\\Backslash\\");
+        System.out.println("New \nline");
+        System.out.println("\tTab");
+        System.out.println("Backspace \btest");
     }
 }
