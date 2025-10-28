@@ -74,5 +74,19 @@ public class DataTypes {
         System.out.println("Letter A: " + letterA);
         System.out.println("Digit of A: " + digitOfA);
         System.out.println("Smiley: " + smiley);
+
+        // boolean
+        // range: true -> false
+        boolean myBoolean = true;
+        boolean isStudent = true;
+        int piket = 80;
+        boolean kaKaluarProvimin = (piket > 50);
+        System.out.println("Boolean: " + myBoolean);
+        System.out.println("Is student: " + isStudent);
+        System.out.println("Ka kaluar provimin: " + kaKaluarProvimin);
+
+        // string literals
+        System.out.println("\'Thojza njefishe");
+        System.out.println("\"Thojza dyfishe\"");
     }
 }
