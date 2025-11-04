@@ -13,6 +13,9 @@ public class StringExample {
 
         String text = "Ky eshte nje text";
 //        System.out.printf("Numri i shkronjave ne kete teskt eshte: " + text.length());
-        System.out.println("Gjatesia e tekstit: " + text.length());
+        int gjatesiaTekstit = text.length();
+        int shkronjaFundit = gjatesiaTekstit -1;
+        System.out.println("Shkronja e fundit e tekstit eshte: " + text.charAt(shkronjaFundit));
+        // System.out.println("Gjatesia e tekstit: " + text.length() + " " + text.charAt(0));
     }
 }
