@@ -30,7 +30,7 @@ public class operators {
             System.out.printf("%nZbritja e %d dhe %d = %d", a, b, a - b);
             System.out.printf("%nProdhimi i %d dhe %d eshte: %d", a, b, a * b);
             System.out.printf("%nHeresi i %d dhe %d eshte %d", a, b, a / b);
-            System.out.printf("%nMbetja (Modulusi) i %d dhe %d eshte %d", a, b, a % b);
+            System.out.printf("%nMbetja (Modulusi %%) i %d dhe %d eshte %d", a, b, a % b);
             System.out.printf("%n========================================");
             System.out.printf("%n========================================");
         }
