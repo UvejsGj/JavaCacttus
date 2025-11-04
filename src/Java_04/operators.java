@@ -21,7 +21,8 @@ public class operators {
 
             int a = 125;
             int b = 24;
-            
+
+            System.out.printf("%nNumrat: %d, %d", a, b);
             System.out.printf("%nOutput:");
             System.out.printf("%n========================================");
             System.out.printf("%n========================================");
