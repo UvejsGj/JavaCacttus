@@ -3,7 +3,7 @@ package Java_05.ushtrime;
 import java.util.Scanner;
 
 public class DetyraSyprina {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         // syprina e trekendshit => s = 1/2 * b * h
         Scanner sc = new Scanner(System.in);
 //

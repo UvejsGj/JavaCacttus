@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.util.GregorianCalendar;
 
 public class DateTimeExample {
-    static void main(String[] args) {
+   public static void main(String[] args) {
         // Nese doni me gjet daten dhe kohen aktuale te sistemit operativ
         // Mundei m dy klasa
         // per date: LocalDate

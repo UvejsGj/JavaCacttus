@@ -3,7 +3,7 @@ package Java_05.ushtrime;
 import java.util.Scanner;
 
 public class Detyra {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
 //        // ligji i dyte i njutonit => F = m * a
@@ -21,7 +21,7 @@ public class Detyra {
         final double GRAVITY = 9.80665;
 
         System.out.print("Shkruani masen: ");
-        double m =  sc.nextDouble();
+        double m = sc.nextDouble();
 
         double f = m * GRAVITY;
 

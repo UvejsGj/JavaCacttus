@@ -3,7 +3,7 @@ package Java_05.ushtrime;
 import java.util.Scanner;
 
 public class BeriTima {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner skaneri = new Scanner(System.in);
 
 //        System.out.print("Shkruani sa euro keni: ");
