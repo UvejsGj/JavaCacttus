@@ -15,5 +15,10 @@ public class SoutExample {
         System.out.println(5.0 / 2); // 2.5
         System.out.println(5 % 2); // 1
         System.out.println(5.5 / 2); // 2.75
+
+        System.out.println(1 + ((2 - 4) * 3) + 5);
+        // 1 + (-2 * 3) + 5 =
+        // 1 + (-6) + 5
+        // -5 + 5 = 0
     }
 }
