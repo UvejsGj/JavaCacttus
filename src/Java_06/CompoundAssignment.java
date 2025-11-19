@@ -32,5 +32,9 @@ public class CompoundAssignment {
         System.out.println("--c = " + --c);
         System.out.println("c = " + c);
 
+        // Assigment operator
+        int x, y, z;
+
+        x = y = z = 100;
     }
 }
