@@ -16,4 +16,18 @@ void main() {
     byte[] byteArray = new byte[5];
     String[] stringArray = new String[10];
 
+    numrat[0] = 1;
+    numrat[1] = 2;
+    numrat[2] = 3;
+
+    System.out.println("Numri i dyte: " + numrat[2]);
+    System.out.println("Numri i elementeve: " + numrat.length);
+
+//    String[] emrat = new String[2];
+//    emrat[0] = "Arbnor";
+//    emrat[1] = "Filan";
+//    String[] emarat = new String[] {"Arbnor", "Erlent"};
+    String[] emrat = {"Arbnor", "Erlent", "Jon"};
+    System.out.println("Emri i pare: " + emrat[0]);
+
 }
